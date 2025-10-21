@@ -1,3 +1,4 @@
+python-3.10
 streamlit==1.31.0
 streamlit-drawable-canvas==0.8.0
 opencv-python==4.10.0.84

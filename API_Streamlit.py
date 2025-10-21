@@ -110,7 +110,7 @@ if uploaded:
         fill_color="rgba(255,0,0,0.15)",
         stroke_color="#FF0000",
         stroke_width=3,
-        background_image=bg_array,
+        background_image=bg_pil,
         update_streamlit=True,
         height=bg_array.shape[0],  # Use exact height from the array
         width=bg_array.shape[1],   # Use exact width from the array
